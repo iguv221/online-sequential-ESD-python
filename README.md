@@ -12,12 +12,18 @@ Original paper can be found in [LINK].
 ### 1. Clone repository.
 Clone or download zip. file of our repository into local device.
 
-### 2. Download dependencies
+### 2. Download dependencies.
 Download dependencies written in requirements.txt.  
 This can be easily done by running the below code in command prompt.  
 ```
 pip install -r requirements.txt
 ```
+
+
+### 3. Datasets.
+URL link to google drive with datasets used in testing and replication.
+
+![Link](https://drive.google.com/drive/folders/1ng4eqciexoEOJp_T5D4nwXVN7OVQfBp7?usp=sharing)
 
 ## Versions
 Python = 3.8.16    
