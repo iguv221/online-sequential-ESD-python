@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### 3. Datasets.
 URL link to google drive with datasets used in testing and replication.
 
-![Link](https://drive.google.com/drive/folders/1ng4eqciexoEOJp_T5D4nwXVN7OVQfBp7?usp=sharing)
+[Link](https://drive.google.com/drive/folders/1ng4eqciexoEOJp_T5D4nwXVN7OVQfBp7?usp=sharing)
 
 ## Versions
 Python = 3.8.16    
