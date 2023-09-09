@@ -25,6 +25,11 @@ URL link to google drive with datasets used in testing and replication.
 
 [Dataset Link](https://drive.google.com/drive/folders/1ng4eqciexoEOJp_T5D4nwXVN7OVQfBp7?usp=sharing)
 
+Yahoo! benchmark datasets are not included in this drive due to Yahoo! license policies.
+These can be found and downloaded in 
+[Yahoo dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70&guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAtaVR04P1M9zgds3PzfnAtAVhsUOz4pZiQ5UEtlYB3z1JjyVl2oO-GopA8MTYZoEUJ4AhNDXHLP5SoGcCqai8FnucvuOsaZLXiTF9Xo4-4mXTqcRoUVT-SrkziayaB0j0MDrrVmMyZD0LlaPgFoPJkyePrvECHAfNxfaH_6YjyC) .
+
+
 ## Versions
 Python = 3.8.16    
 argparse = 1.1  
